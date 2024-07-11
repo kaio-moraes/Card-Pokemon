@@ -1,0 +1,4 @@
+.carousel-img {
+    height: 500px; /* Defina a altura desejada */
+    object-fit: cover; /* Mantém o aspecto das imagens, cortando-as se necessário */
+}
